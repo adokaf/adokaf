@@ -3,6 +3,23 @@
 
 <img src="https://user-images.githubusercontent.com/85576168/203365751-25d28e24-e3f7-4916-82de-cf9ad10d0d81.png"  width="50" height="55"><img src="https://user-images.githubusercontent.com/85576168/203366585-f79b6b85-5e8f-4b40-bfde-90fdd12ea564.png"  width="50" height="52"><img src="https://user-images.githubusercontent.com/85576168/203366829-e845b2ab-6b35-4a9c-a88a-4b0193a7e5cf.png"  width="50" height="55">
 
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/c/DevNaoDev?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/devnaodeve/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/c/DevNaoDev">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/devnaodeve/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adokaf?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/adokaf?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adokaf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/adokaf/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/adokaf-profile-views"/></a>
+</p>
+
+
+<br>
 
 
 # 💻 Tech Stack:
