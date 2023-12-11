@@ -44,5 +44,6 @@
 
 # 💫 Partners:
 [![Github Badge](https://img.shields.io/badge/-@lMainente-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/lMainente)](https://github.com/lMainente)
+[![Github Badge](https://img.shields.io/badge/-@chriaalonso-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/chriaalonso)](https://github.com/chriaalonso)
 
 
