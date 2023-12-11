@@ -4,7 +4,7 @@
 🔭 Software Engineering <br>👯 I’m looking to collaborate on JAVA or PHP projects<br>🌱 I’m currently learning Software Engineering <br>⚡ Interested in IoT, IA and Metaverse
 
 [![Linkedin Badge](https://img.shields.io/badge/-adokaf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adokaf/)](https://www.linkedin.com/in/adokaf/)
-[![Medium Badge](https://img.shields.io/badge/-@fernandoadoka-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@fernandoadoka)](https://medium.com/@jessicalim)
+[![Medium Badge](https://img.shields.io/badge/-@fernandoadoka-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@fernandoadoka)](https://medium.com/@fernandoadoka)
 [![Website Badge](https://img.shields.io/badge/-fernandoadoka.com.br-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://fernandoadoka.com.br)](https://fernandoadoka.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-@FernandoAdoka-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FernandoAdoka)](https://twitter.com/FernandoADoka)
 [![Instagram Badge](https://img.shields.io/badge/-@adokaf-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adokaf/)](https://instagram.com/adokaf)
