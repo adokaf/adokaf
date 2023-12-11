@@ -42,6 +42,7 @@
 ![pv](https://pageview.vercel.app/?github_user=adokaf)
 
 
+# 💫 Partners:
 [![Github Badge](https://img.shields.io/badge/-@lMainente-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/lMainente)](https://github.com/lMainente)
 
 
