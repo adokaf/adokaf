@@ -6,8 +6,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-adokaf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adokaf/)](https://www.linkedin.com/in/adokaf/)
 [![Medium Badge](https://img.shields.io/badge/-@fernandoadoka-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@fernandoadoka)](https://medium.com/@jessicalim)
 [![Website Badge](https://img.shields.io/badge/-fernandoadoka.com.br-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://fernandoadoka.com.br)](https://fernandoadoka.com.br)
-[![Twitter Badge](https://img.shields.io/badge/-@FernandoAdoka?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FernandoAdoka)](https://twitter.com/_jesslim)
+[![Twitter Badge](https://img.shields.io/badge/-@FernandoAdoka-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FernandoAdoka)](https://twitter.com/FernandoADoka)
+
 [![Instagram Badge](https://img.shields.io/badge/-@adokaf?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adokaf/)](https://instagram.com/_jessicaalim)
+
+[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
+
+
 [![Gmail Badge](https://img.shields.io/badge/-fernandoadoka-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fernandoadoka@gmail.com)](mailto:jessicalim813@gmail.com)
 
 
