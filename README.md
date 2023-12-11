@@ -13,3 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adokaf&show_icons=true&theme=dracula)
 
+![build](https://github.com/adokaf/adokaf/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/adokaf/adokaf)
+![pv](https://pageview.vercel.app/?github_user=adokaf)
