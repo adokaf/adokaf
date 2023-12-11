@@ -1,3 +1,6 @@
+<img src="https://github.com/adokaf/adokaf/blob/main/hello_github.png" width="100%">
+<br>
+
 # 💫 About Me:
 🔭 Software Engineering <br>👯 I’m looking to collaborate on JAVA or PHP projects<br>🌱 I’m currently learning Software Engineering <br>⚡ Interested in IoT, IA and Metaverse
 
