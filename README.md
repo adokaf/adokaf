@@ -50,3 +50,6 @@
 [![Github Badge](https://img.shields.io/badge/-@KaianNovais-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/KaianNovais)](https://github.com/KaianNovais)
 [![Github Badge](https://img.shields.io/badge/-@Thieralarcon-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Thieralarcon)](https://github.com/Thieralarcon)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adokaf&theme=radical)](https://github.com/adokaf/github-readme-stats)
+
