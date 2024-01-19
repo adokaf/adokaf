@@ -51,7 +51,6 @@
 [![Github Badge](https://img.shields.io/badge/-@KaianNovais-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/KaianNovais)](https://github.com/KaianNovais)
 [![Github Badge](https://img.shields.io/badge/-@Thieralarcon-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Thieralarcon)](https://github.com/Thieralarcon)
 [![Github Badge](https://img.shields.io/badge/-@luizhenriquefernandes-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/luizhenriquefernandes)](https://github.com/luizhenriquefernandes)
-[![Github Badge](https://img.shields.io/badge/-@Jansen-Killinger-Cara-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Jansen-Killinger-Cara)](https://github.com/Jansen-Killinger-Cara)
 
 
 
